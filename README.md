@@ -1,6 +1,6 @@
 <h1>Intro Title Goes Here</a> </h1>
 
-<h2>👩‍💻 Data Analysis Projects:</h2>
+<h2>👩‍💻 Projects:</h2>
 
 - <b>Python</b>
   - [E-commerce Consumer Archetyping + Dashboard](https://github.com/ohenzama/Project-1/tree/main)
