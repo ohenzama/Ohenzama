@@ -1,4 +1,4 @@
-<h1>Hey! Glad you're here :) </a> </h1>
+<h1>Hello! Glad you're here :) </a> </h1>
 
 <h2>👩‍💻 Projects:</h2>
 
