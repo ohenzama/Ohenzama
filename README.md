@@ -3,20 +3,18 @@
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
 - <b>Python</b>
-  - [Project 1](https://github.com/ohenzama/Project-1/tree/main))
+  - [Data-Driven Consumer Archetyping](https://github.com/ohenzama/Project-1/tree/main))
+  - [Crime Patterns and Resource Allocation Analysis]
+  - [Energy Value Prediction for University Campus]
 - <b>R</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Predictive Modeling of Beneficiary Cost Drivers](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [Movie Revenue Prediction]
+  - [Predicting Energy Consumption Values]
+  - [Driving Factors for Animal Adoption]
 - <b>Excel</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - [Student Performance Analysis](https://github.com/joshmadakor1/Sentinel-Lab)
 - <b>SQL</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>uhh</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [SQL Project](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 
 <h2> 🤳 Connect with me:</h2>
