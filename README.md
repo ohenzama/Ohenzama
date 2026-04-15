@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ohenmaa! <br/><a>Statistics Student</a> </h1>
+<h1>Intro Title Goes Here</a> </h1>
 
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
