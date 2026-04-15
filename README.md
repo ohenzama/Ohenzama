@@ -3,7 +3,7 @@
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
 - <b>Python</b>
-  - [Data-Driven Consumer Archetyping](https://github.com/ohenzama/Project-1/tree/main))
+  - [E-commerce Consumer Archetyping](https://github.com/ohenzama/Project-1/tree/main))
   - [Crime Patterns and Resource Allocation Analysis]
   - [Energy Value Prediction for University Campus]
 - <b>R</b>
