@@ -10,7 +10,7 @@
 - <b>R</b>
   - [Predictive Modeling of Beneficiary Cost Drivers + Dashboard](https://github.com/ohenzama/Predictive-Modeling-of-Beneficiary-Cost-Drivers)
   - [Movie Revenue Prediction](https://github.com/ohenzama/Movie-Revenue-Prediction)
-  - [Predicting Energy Consumption Values](https://github.com/ohenzama/Predicting-Energy-Consumption-Values)
+  - [Energy Consumption Drivers Exploratory Data Analysis](https://github.com/ohenzama/Predicting-Energy-Consumption-Values)
   - [Driving Factors for Animal Adoption](https://github.com/ohenzama/Driving-Factors-for-Animal-Adoption)
 - <b>Excel</b>
   - [Student Performance Analysis](https://github.com/ohenzama/Student-Performance-Analysis)
